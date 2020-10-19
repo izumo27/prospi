@@ -4,7 +4,7 @@ import pulp
 
 
 def solve(y):
-    # 星3から作る(30 pt)、星2以上から作る(20 pt)、星1以上から作る(10 ptの順に探索
+    # 星3から作る(30 pt)、星2以上から作る(20 pt)、星1以上から作る(10 pt)の順に探索
     point_sum = 0
     for star in reversed(range(3)):
         # 問題を初期化

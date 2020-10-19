@@ -15,8 +15,6 @@
 
 ```$ python solver.py```
 
-- 食材のファイル名を指定する場合は
-
-```$ python solver.py -f <file name>```
+- 食材のファイル名を指定する場合は```$ python solver.py -f <file name>```
 
 - 星1,2,3のそれぞれでどの料理をいくつ作れるかが出力される
